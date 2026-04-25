@@ -1,12 +1,10 @@
 ---
-title: "Welcome"
+title: "Enzo Almeida"
 ---
 
 ::: {.hero}
 ::: {.hero-text}
-# Enzo Almeida
-
-Welcome.
+## Welcome
 
 I am a pre-doctoral fellow at Nova SBE, interested in labour economics, migration and applied microeconomics.
 
@@ -25,9 +23,3 @@ I am a pre-doctoral fellow at Nova SBE, interested in labour economics, migratio
 My current research work uses administrative microdata to study workers and firms. I am especially interested in how labour market institutions and migration shape workers' outcomes and economic adjustment.
 
 Before joining Nova SBE, I worked as an intern and consultant at the International Labour Organization.
-
-## Research Interests
-
-- Labour economics
-- Migration
-- Applied microeconomics
