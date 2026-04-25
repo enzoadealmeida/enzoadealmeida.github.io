@@ -12,8 +12,6 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
-      - text: "CV"
-        href: cv.qmd
   page-footer:
     left: "© Enzo Almeida"
     right: "Built with Quarto"
