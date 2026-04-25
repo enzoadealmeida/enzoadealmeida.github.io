@@ -1,0 +1,35 @@
+---
+title: "Welcome"
+---
+
+::: {.hero}
+::: {.hero-text}
+# Enzo Almeida
+
+I am a pre-doctoral fellow at Nova SBE, affiliated with the Nova Public Policy Institute and the Economics of Education Knowledge Center.
+
+I am an applied microeconomist interested in labour economics, migration, education, and public policy.
+
+[enzo.almeida@novasbe.pt](mailto:enzo.almeida@novasbe.pt)
+
+[View CV](files/Almeida_CV.pdf){.button}
+:::
+
+::: {.hero-photo}
+![](images/enzo-almeida.jpg){fig-alt="Portrait of Enzo Almeida"}
+:::
+:::
+
+## About
+
+My current research work uses administrative microdata to study labour markets, firms, families, and public policy. I am especially interested in how labour-market institutions and migration shape workers' outcomes and economic adjustment.
+
+Before joining Nova SBE, I worked as an intern and consultant at the International Labour Organization, contributing to employment impact assessments of public infrastructure investments.
+
+## Research Interests
+
+- Labour economics
+- Migration
+- Applied microeconomics
+- Economics of education
+- Public policy

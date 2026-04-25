@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Enzo Almeida"
+  site-url: "https://enzoadealmeida.github.io"
+  navbar:
+    title: "Enzo Almeida"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+  page-footer:
+    left: "© Enzo Almeida"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    link-external-newwindow: true
