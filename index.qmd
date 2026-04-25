@@ -6,6 +6,8 @@ title: "Welcome"
 ::: {.hero-text}
 # Enzo Almeida
 
+Welcome.
+
 I am a pre-doctoral fellow at Nova SBE, interested in labour economics, migration and applied microeconomics.
 
 [enzo.almeida@novasbe.pt](mailto:enzo.almeida@novasbe.pt)
