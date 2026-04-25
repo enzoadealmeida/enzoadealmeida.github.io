@@ -28,8 +28,8 @@ body {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 280px;
-  gap: 48px;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 56px;
   align-items: center;
   padding: 56px 0 44px;
   border-bottom: 1px solid var(--line);
@@ -49,8 +49,8 @@ body {
 }
 
 .hero-photo img {
-  width: 280px;
-  height: 340px;
+  width: 360px;
+  height: 440px;
   object-fit: cover;
   object-position: center;
   border-radius: 6px;
@@ -110,7 +110,7 @@ a {
   }
 
   .hero-photo img {
-    width: min(100%, 280px);
+    width: min(100%, 340px);
     height: auto;
     aspect-ratio: 4 / 5;
   }
