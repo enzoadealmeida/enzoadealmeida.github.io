@@ -10,7 +10,7 @@
 
 body {
   color: var(--ink);
-  background: linear-gradient(180deg, #f8faf6 0%, #ffffff 42%);
+  background: #ffffff;
   font-size: 17px;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .hero p {
   max-width: 680px;
-  color: var(--muted);
+  color: var(--ink);
   font-size: 19px;
   line-height: 1.6;
 }
