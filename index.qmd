@@ -6,11 +6,11 @@ title: "Enzo Almeida"
 ::: {.hero-text}
 ## Welcome
 
-I am a pre-doctoral fellow at Nova SBE, interested in labour economics, migration and applied microeconomics.
+I am an upcoming first-year PhD student at Università degli Studi di Torino and Collegio Carlo Alberto, interested in labour economics, migration and applied microeconomics.
 
-[enzo.almeida@novasbe.pt](mailto:enzo.almeida@novasbe.pt)
+[enzoaaragao@gmail.com](mailto:enzoaaragao@gmail.com)
 
-[View CV](files/Almeida_CV.pdf){.button}
+[View CV](files/cv_onepager.pdf){.button}
 :::
 
 ::: {.hero-photo}
@@ -22,4 +22,4 @@ I am a pre-doctoral fellow at Nova SBE, interested in labour economics, migratio
 
 My current research work uses administrative microdata to study workers and firms. I am especially interested in how labour market institutions and migration shape workers' outcomes and economic adjustment.
 
-Before joining Nova SBE, I worked as an intern and consultant at the International Labour Organization.
+Before joining the Università degli Studi di Torino and Collegio Carlo Alberto, I worked as pre-doctoral research assistant at Nova SBE and as an intern and consultant at the International Labour Organization.
